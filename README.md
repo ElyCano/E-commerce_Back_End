@@ -10,11 +10,11 @@ This application is a working Express.js API and configure it to use Sequelize t
 
 ## Demo
 
-Live demo [_Click Here_](https://watch.screencastify.com/v/O3sV2WaRIQWW0LbcHXpB).
+Live demo [_Click Here_](link).
 
 ## Screenshot
 
-![screenshot-pic](https://github.com/ElyCano/Employee_Tracker/blob/main/assets/images/Screenshot.jpg?raw=true)
+![screenshot-pic](pic)
 
 ## Table of Contents
 
