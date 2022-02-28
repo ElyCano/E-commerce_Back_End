@@ -1,0 +1,1 @@
+{"id":1,"product_name":"Plain T-Shirt","price":"15","stock":14,"category":{"category_name":"Shirts"},"tags":[{"tag_name":"white","product_tag":{"id":1,"product_id":1,"tag_id":6}},{"tag_name":"gold","product_tag":{"id":2,"product_id":1,"tag_id":7}},{"tag_name":"pop culture","product_tag":{"id":3,"product_id":1,"tag_id":8}}]}

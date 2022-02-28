@@ -1,0 +1,1 @@
+{"id":1,"tag_name":"rock music","products":[{"product_name":"Branded Baseball Hat","price":"23","stock":12,"category_id":4,"product_tag":{"id":5,"product_id":3,"tag_id":1}},{"product_name":"Top 40 Music Compilation Vinyl Record","price":"13","stock":50,"category_id":3,"product_tag":{"id":9,"product_id":4,"tag_id":1}}]}
