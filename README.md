@@ -10,7 +10,10 @@ This application is a working Express.js API and configure it to use Sequelize t
 
 ## Demo
 
-Live demo [_Click Here_](link).
+GET Routes Video [_Click Here_](https://watch.screencastify.com/v/Pf900zSmoswxMwzIuqM1).
+PUT Routes Video [_Click Here_](https://watch.screencastify.com/v/6ESWMSc0mZ5YO3knk7YD).
+POST Routes Video [_Click Here_](https://watch.screencastify.com/v/2wveinQd1YrrwWN3pHx5).
+DELETE Routes Video [_Click Here_](https://watch.screencastify.com/v/nvS0OdfwaST2p38891WJ).
 
 ## Screenshot
 
