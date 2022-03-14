@@ -10,6 +10,7 @@ This application is a working Express.js API and configure it to use Sequelize t
 
 ## Demo
 
+- Video of db & seeds [_Click Here_](https://watch.screencastify.com/v/Vz6ZdzeFr0ltp6ICT05K).
 - GET Routes Video [_Click Here_](https://watch.screencastify.com/v/Pf900zSmoswxMwzIuqM1).
 - PUT Routes Video [_Click Here_](https://watch.screencastify.com/v/6ESWMSc0mZ5YO3knk7YD).
 - POST Routes Video [_Click Here_](https://watch.screencastify.com/v/2wveinQd1YrrwWN3pHx5).
